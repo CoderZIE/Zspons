@@ -7,7 +7,10 @@
     font-family: 'Helvetica';
     src: url(./Helvetica-Neue-Bold_22498.ttf);
 }
-
+*{
+    margin:0;
+    padding:0;
+}
 
 body{
     /* background: url(https://drive.google.com/uc?export=view&id=1gLKWI7qqmZ_yVqSmVm8Cem1omz6Ra_Rh); */
